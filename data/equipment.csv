@@ -1,0 +1,22 @@
+equipment_id,plant_id,equipment_name,category
+1,1,Primary Digester,Digester
+2,1,Secondary Digester,Digester
+3,1,Biogas Compressor,Compressor
+4,1,H2S Scrubber,Scrubber
+5,1,Gas Holder,Gas Holder
+6,1,Feed Mixing Pit,Feed System
+7,1,CHP Unit,CHP/Utilities
+8,2,Primary Digester,Digester
+9,2,Secondary Digester,Digester
+10,2,Biogas Compressor,Compressor
+11,2,H2S Scrubber,Scrubber
+12,2,Gas Holder,Gas Holder
+13,2,Feed Mixing Pit,Feed System
+14,2,CHP Unit,CHP/Utilities
+15,3,Primary Digester,Digester
+16,3,Secondary Digester,Digester
+17,3,Biogas Compressor,Compressor
+18,3,H2S Scrubber,Scrubber
+19,3,Gas Holder,Gas Holder
+20,3,Feed Mixing Pit,Feed System
+21,3,CHP Unit,CHP/Utilities

@@ -1,0 +1,57 @@
+event_id,plant_id,equipment_id,event_date,duration_hours,cause
+1,1,6,2025-09-13,9.3,Feedstock
+2,1,6,2026-07-05,9.9,Planned Maintenance
+3,2,14,2025-09-12,13.2,Feedstock
+4,2,8,2025-10-11,13.7,Process
+5,2,8,2025-11-05,3.3,Process
+6,2,14,2025-11-12,9.8,Electrical
+7,2,8,2025-11-15,7.3,Mechanical
+8,2,14,2025-12-14,10.0,Planned Maintenance
+9,2,13,2025-12-24,9.5,Planned Maintenance
+10,2,12,2026-02-01,11.1,Process
+11,2,10,2026-02-08,4.1,Mechanical
+12,2,12,2026-02-15,12.1,Feedstock
+13,2,10,2026-03-01,2.3,Feedstock
+14,2,14,2026-03-02,6.3,Planned Maintenance
+15,2,8,2026-03-05,8.0,Mechanical
+16,2,9,2026-05-25,6.0,Mechanical
+17,2,13,2026-06-11,11.1,Mechanical
+18,2,11,2026-06-21,4.7,Planned Maintenance
+19,2,13,2026-06-23,12.4,Electrical
+20,2,9,2026-06-25,1.7,Feedstock
+21,2,13,2026-07-18,3.3,Electrical
+22,2,8,2026-08-12,7.2,Planned Maintenance
+23,2,8,2026-08-23,12.3,Feedstock
+24,3,18,2025-09-28,11.1,Electrical
+25,3,19,2025-09-29,8.1,Process
+26,3,19,2025-10-04,7.0,Electrical
+27,3,16,2025-10-09,3.5,Process
+28,3,15,2025-10-27,4.4,Mechanical
+29,3,20,2025-11-10,8.1,Mechanical
+30,3,15,2025-12-02,4.1,Electrical
+31,3,15,2025-12-05,14.0,Feedstock
+32,3,15,2025-12-16,3.3,Mechanical
+33,3,20,2025-12-20,6.4,Electrical
+34,3,20,2025-12-23,8.3,Feedstock
+35,3,16,2025-12-30,4.9,Mechanical
+36,3,15,2026-01-10,10.8,Feedstock
+37,3,15,2026-01-17,6.7,Mechanical
+38,3,18,2026-02-01,3.9,Mechanical
+39,3,19,2026-02-03,12.8,Mechanical
+40,3,21,2026-02-08,4.9,Process
+41,3,17,2026-02-15,12.3,Electrical
+42,3,17,2026-02-20,3.5,Electrical
+43,3,20,2026-02-21,6.8,Planned Maintenance
+44,3,18,2026-02-22,10.0,Mechanical
+45,3,15,2026-03-09,10.7,Electrical
+46,3,19,2026-03-18,6.4,Mechanical
+47,3,19,2026-05-02,13.9,Feedstock
+48,3,18,2026-05-09,2.1,Feedstock
+49,3,20,2026-05-19,4.8,Mechanical
+50,3,18,2026-05-26,3.0,Electrical
+51,3,19,2026-06-07,9.5,Process
+52,3,20,2026-06-17,9.6,Mechanical
+53,3,20,2026-06-29,12.3,Electrical
+54,3,20,2026-07-25,3.6,Mechanical
+55,3,16,2026-08-04,1.2,Feedstock
+56,3,21,2026-08-08,8.1,Process
