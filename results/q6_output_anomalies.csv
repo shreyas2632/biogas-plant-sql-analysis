@@ -1,0 +1,16 @@
+plant_name,prod_date,cbg_kg,rolling_mean,z_score,uptime_hours
+"Sahyadri BioEnergy",2025-12-14,766,1612,-5.87,14
+"Sahyadri BioEnergy",2026-08-23,730,1719,-5.2,11.7
+"Sahyadri BioEnergy",2026-02-01,803,1557,-5.19,12.9
+"Green Valley CBG",2026-07-05,1324,2340,-5,14.1
+"Malwa Renewables",2026-06-07,1592,2935,-4.69,14.5
+"Malwa Renewables",2026-05-02,1385,3027,-4.59,10.1
+"Malwa Renewables",2026-08-08,1707,2915,-4.41,15.9
+"Malwa Renewables",2025-12-05,1124,2946,-4.11,10
+"Malwa Renewables",2026-06-29,1162,2878,-3.91,11.7
+"Sahyadri BioEnergy",2026-05-25,1074,1666,-3.7,18
+"Malwa Renewables",2026-02-15,1279,2683,-3.54,11.7
+"Sahyadri BioEnergy",2026-06-23,783,1666,-3.53,11.6
+"Sahyadri BioEnergy",2026-06-11,996,1690,-3.49,12.9
+"Sahyadri BioEnergy",2026-08-12,1096,1708,-3.46,16.8
+"Malwa Renewables",2026-02-03,1426,2620,-3.44,11.2

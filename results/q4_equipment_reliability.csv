@@ -1,0 +1,6 @@
+plant_name,equipment_name,category,failures,hours_down,avg_repair_hrs,rnk
+"Green Valley CBG","Feed Mixing Pit","Feed System",1,9.3,9.3,1
+"Malwa Renewables","Gas Holder","Gas Holder",6,57.7,9.6,1
+"Malwa Renewables","Primary Digester",Digester,7,54,7.7,2
+"Sahyadri BioEnergy","Primary Digester",Digester,5,44.6,8.9,1
+"Sahyadri BioEnergy","Feed Mixing Pit","Feed System",3,26.8,8.9,2
